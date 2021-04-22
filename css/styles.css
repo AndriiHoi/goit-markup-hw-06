@@ -927,7 +927,7 @@ footer {
 
 .btn-submit.ftr::after {
   top: 13px;
-  right: 18px;
+  right: 25px;
   position: absolute;
   display: inline-flex;
   width: 24px;
