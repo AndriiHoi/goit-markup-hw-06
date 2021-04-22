@@ -878,6 +878,8 @@ footer {
 .checkbox-label {
   display: flex;
   width: 423px;
+  margin-left: auto;
+  margin-right: auto;
   font-size: 14px;
   line-height: 1.71;
   align-items: center;
