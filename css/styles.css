@@ -732,6 +732,7 @@ footer {
   border-radius: 4px;
   box-sizing: border-box;
   margin-right: 12px;
+  color: var(--white-color);
 }
 
 .modal > h2 {
