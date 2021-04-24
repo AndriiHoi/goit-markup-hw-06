@@ -697,6 +697,10 @@ footer {
   margin-right: 70px;
 }
 
+.container .ftr:nth-child(2) {
+  margin-right: 93px;
+}
+
 .ftr-text {
   margin-bottom: 20px;
   color: var(--white-color);
