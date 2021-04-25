@@ -922,7 +922,6 @@ footer {
 .btn-submit {
   margin-left: auto;
   margin-right: auto;
-    padding: 10px 28px 10px 0px;
 }
 
 .btn-submit.ftr::after {
